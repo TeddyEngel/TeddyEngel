@@ -18,7 +18,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/teddyengel/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> </a>
+  <a href="https://www.linkedin.com/in/teddyengel/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> </a>
   <a href="https://stackoverflow.com/users/2895078/teddy-engel?tab=profile"><img src="https://img.shields.io/static/v1?message=StackOverflow&logo=stackoverflow&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  /></a>
 </div>
 
