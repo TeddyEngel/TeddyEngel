@@ -1,4 +1,4 @@
-Led games at **King** (Farm Heroes Saga, Bubble Witch 2, Shuffle Cats). Fintech delivery at **UBS** Innovation Lab. Enterprise systems at **Murex**. 
+Engineered Enterprise systems at **Murex**. Led games at **King** (Farm Heroes Saga, Bubble Witch 2, Shuffle Cats). Fintech delivery at **UBS** Innovation Lab. 
 
 ---
 
